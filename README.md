@@ -23,10 +23,3 @@ SQL – data extraction and aggregation
 
 Excel / CSV – data source samples
 
-operational-kpis-dashboard/
-│
-├── data/                  # Raw and processed data
-├── reports/               # Power BI report (.pbix)
-├── scripts/               # Python ETL scripts
-├── images/                # Dashboard preview
-└── README.md
